@@ -26,6 +26,8 @@ These dependencies must be installed, after importing the Firebase package in Sw
 
 Add a [Firebase config file](https://firebase.google.com/docs/ios/setup#add-config-file), related to your Firebase account (GoogleService-Info.plist)
 
+[Add Firebase to your Apple Project](https://firebase.google.com/docs/ios/setup)
+
 ## Authors
 
 Danilo Santos
@@ -40,5 +42,4 @@ This project is licensed under the MT License - see the [LICENSE.md](LICENSE.md)
 
 ## Acknowledgments
 
-* [Firebase docs](https://firebase.google.com/docs/ios/setup)
 * [Eric Alves Brito](https://www.linkedin.com/in/ericbrito)
