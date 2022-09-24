@@ -9,7 +9,7 @@ Apply the concepts demonstrating in class, in the FIAP mobile development course
 ## Getting Started
 1. Create a [Firebase Account](https://support.google.com/appsheet/answer/10104995?hl=en) if you don't have one 
 2. Open the project in xcode
-3. If the [firebase dependency](https://firebase.google.com/docs/ios/setup#add-sdks) does not come with a project, it will be necessary to install
+3. If the [Firebase dependency](https://firebase.google.com/docs/ios/setup#add-sdks) does not come with a project, it will be necessary to install
 
 ### Dependencies
 
@@ -22,9 +22,9 @@ This project uses the following firebase dependencies
 * FirebaseRemoteConfigSwift
 * FirebaseStorege
 
-These dependencies must be installed, after importing the firebase package in Swift Package Manager
+These dependencies must be installed, after importing the Firebase package in Swift Package Manager
 
-Add a [Firebase config file](https://firebase.google.com/docs/ios/setup#add-config-file), related to your firebase account (GoogleService-Info.plist)
+Add a [Firebase config file](https://firebase.google.com/docs/ios/setup#add-config-file), related to your Firebase account (GoogleService-Info.plist)
 
 ## Authors
 
